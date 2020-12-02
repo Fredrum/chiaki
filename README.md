@@ -1,3 +1,4 @@
+For Raspberry Pi Build and Install Instructions Please [Visit the fork Wiki](https://github.com/Fredrum/chiaki/wiki/Chiaki-for-the-Raspberry-Pi)!
 
 ![Chiaki Logo](assets/chiaki_wide.png)
 
